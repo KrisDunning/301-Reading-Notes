@@ -1,4 +1,4 @@
-[Return to Course 301 Notes](https://KrisDunning.github.io/301-Reading-Notes/)
+[Return to Course 301 Notes](https://KrisDunning.github.io/301-Reading-Notes/README.html)
 
 -----
 
