@@ -1,5 +1,6 @@
 [Return to Course 301 Notes](https://KrisDunning.github.io/301-Reading-Notes/)
 
+-----
 # Reading 01- Introduction to React and Components
 
 React and Component based architecture matter to me because the react library is widely used in real world web development and components are a common way to structure a webpages code design. Becoming familiar with these concepts and practices will improve my overall coding knowledge. 
@@ -21,3 +22,5 @@ React and Component based architecture matter to me because the react library is
 ## Things I want to know more about
 
 - Is this an alternative to OOP? Can OOP concepts be applied to components? such as classes? Or is that too tightly coupled? I would think that a class instantiation should be acceptable for a component. 
+
+-----
