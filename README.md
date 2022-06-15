@@ -9,4 +9,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/301-Reading-Notes/Read02.html';">Reading 02- State and Props</button> 
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/301-Reading-Notes/Read03.html';">Reading 03- Passing Functions as Props</button> 
+
 -----
