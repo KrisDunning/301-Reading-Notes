@@ -11,4 +11,8 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/301-Reading-Notes/Read03.html';">Reading 03- Passing Functions as Props</button> 
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/301-Reading-Notes/Read03.html';">Reading 04- React and Forms</button> 
+
+<Button onClick= "window.location.href='https://krisdunning.github.io/301-Reading-Notes/Read03.html';">Reading 05- Putting It all together</button> 
+
 -----
