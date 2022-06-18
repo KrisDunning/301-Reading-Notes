@@ -1,4 +1,4 @@
-[Return to Course 301 Notes](https://KrisDunning.github.io/301-Reading-Notes/README.html)
+[Return to Course 301 Notes](https://KrisDunning.github.io/301-Reading-Notes)
 
 -----
 # Reading 03- Passing Functions as Props
