@@ -17,4 +17,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/301-Reading-Notes/Read06.html';">Reading 06- NODE.js</button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/301-Reading-Notes/Read07.html';">Reading 07- REST</button>
+
 -----
