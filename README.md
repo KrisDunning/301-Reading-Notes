@@ -19,4 +19,8 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/301-Reading-Notes/Read07.html';">Reading 07- REST</button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/301-Reading-Notes/Read08.html';">Reading 08-API</button>
+
+<Button onClick= "window.location.href='https://krisdunning.github.io/301-Reading-Notes/Read08.html';">Reading 09- Functional Programming</button>
+
 -----
