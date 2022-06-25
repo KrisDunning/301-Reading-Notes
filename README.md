@@ -23,4 +23,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/301-Reading-Notes/Read08.html';">Reading 09- Functional Programming</button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/301-Reading-Notes/Read08.html';">Reading 10- In Memory Storage</button>
+
 -----
