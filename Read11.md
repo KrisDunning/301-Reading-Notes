@@ -6,8 +6,6 @@
 
 We will be using monDB amd mongoose in class as our DB. This will give us a overview of DB's strength and weaknesses.
 
-
-
 ## Reading NoSQL vs SQL
 
 Five differences between SQL and NoSQL databases:

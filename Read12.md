@@ -56,7 +56,7 @@ What does a 500 error status code mean?
 
 - there is an error on the server.
 
-What is the difference between a status 200 and a status 
+What is the difference between a status 200 and a status
 201?
 
 - 200 means everything successful. 201 means `create` was successful.  Used for POST routes. 
