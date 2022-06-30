@@ -31,4 +31,6 @@
 
 <Button onClick= "window.location.href='https://krisdunning.github.io/301-Reading-Notes/Read11.html';">Reading 13- More CRUD</button>
 
+<Button onClick= "window.location.href='https://krisdunning.github.io/301-Reading-Notes/Read11.html';">Reading 14- Diversity and Inclusion in the Tech Industry</button>
+
 -----
